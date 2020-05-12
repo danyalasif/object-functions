@@ -1,0 +1,25 @@
+{
+  "name": "object-functions",
+  "version": "0.0.1",
+  "description": "A utility library for object functions, check whether an object is empty, contents, length, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danyalasif/object-functions.git"
+  },
+  "keywords": [
+    "objects",
+    "javascript",
+    "utility",
+    "functions"
+  ],
+  "author": "Danyal Asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danyalasif/object-functions/issues"
+  },
+  "homepage": "https://github.com/danyalasif/object-functions#readme"
+}
